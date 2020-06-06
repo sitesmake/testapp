@@ -23,6 +23,7 @@ class App extends Component {
         </Row>
         <Row>
           <Column size={3}>
+            <h1>ENV is {process.env.NODE_ENV}</h1>
             <OrderOverviewContainer />
           </Column>
           <Column size={1}>
