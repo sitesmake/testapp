@@ -13,8 +13,8 @@
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "jest-cli": "^20.0.4",
-    "react-scripts": "^1.0.10",
+    "jest-cli": "^29.3.1",
+    "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.2"
   },
   "scripts": {
